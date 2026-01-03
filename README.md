@@ -11,8 +11,10 @@ Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técn
 **Linguagens de Programação:**
 </br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&)
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&)
 
 **Bibliotecas e Frameworks:**
 </br>
