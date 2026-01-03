@@ -2,8 +2,6 @@
 *ainda estou testando o README*
 
 # Renata Teixeira - RenataPamby
-Olá, esse é o meu priemiro Projeto de Open Source e também é a primeira fez que mexo com Markdown
-
 **Sobre mim:**
 </br>
 Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técnica em DS atravez da Etec e também tenho conhecimento em sistemas embarcados
