@@ -28,4 +28,4 @@ Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técn
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
 
-**ODS:** *ainda estou testando o README*
+**OBS:** *ainda estou testando o README*
