@@ -1,5 +1,3 @@
-## Olá 👋
-*ainda estou testando o README*
 
 # Renata Teixeira - RenataPamby
 **Sobre mim:**
@@ -29,6 +27,5 @@ Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técn
 </br>
 ![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
-## GitHubStatus
-[![GitHub Streak](https://streak-stats.demolab.com?user=RenataPamby&theme=bear&background=000&border=30A3DC&dates=FFF&locale=pt_BR)](https://git.io/streak-stats)
 
+**ODS:** *ainda estou testando o README*
