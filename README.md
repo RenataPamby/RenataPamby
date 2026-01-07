@@ -1,5 +1,5 @@
 
-# Renata Teixeira - RenataPamby
+# Renata Teixeira
 **Sobre mim:**
 </br>
 Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técnica em DS atravez da Etec e também tenho conhecimento em sistemas embarcados
