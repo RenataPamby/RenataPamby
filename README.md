@@ -1,33 +1,40 @@
 
-# Renata Teixeira
-**Sobre mim:**
-</br>
-Estou me formando em Analise e Desenvolvimento de Sistemas pela Fatec, sou técnica em DS atravez da Etec e também tenho conhecimento em sistemas embarcados
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-teixeira-81941b28a/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renata.teixeira823@gmail.com)
+<h1 align="center">Olá, Eu sou a Renata Teixeira 👋</h1>
 
-## Habilidades
-**Linguagens de Programação:**
-</br>
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&)
-![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&)
+<p align="center">
+  <em>Conete-se comigo</em>
+</p>
+<p align="center">
+  <a https://www.linkedin.com/in/renata-teixeira-81941b28a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:renata.teixeira823@gmail.com">
+    <img src="https://img.shields.io/badge/-renata.teixeira823@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-**Bibliotecas e Frameworks:**
-</br>
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+---
 
-**Banco de Dados:**
-</br>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **FATEC** e gosto de aprender coisas novas, por isso busco me tornar uma futura desenvolvedora **full stack**.
 
-**Ferramentas:**
-</br>
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
+---
+## 🛠️ Conhecimentos
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP
 
-**OBS:** *ainda estou testando o README com o Markdown*
+**Outras Tecnologias**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/> .Net
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> MySQL
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> Figma
+
+**Em Aprendizado**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
+
+----
+**OBS:** *Este README está em constante evolução, assim como meu aprendizado.*
