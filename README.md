@@ -5,7 +5,7 @@
   <em>Conete-se comigo</em>
 </p>
 <p align="center">
-  <a https://www.linkedin.com/in/renata-teixeira-costa/">
+  <a href="https://www.linkedin.com/in/renata-teixeira-costa/">
     <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:renata.teixeira823@gmail.com">
