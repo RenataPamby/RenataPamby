@@ -37,4 +37,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **FATEC** e gos
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript
 
 ----
-**OBS:** *Este README está em constante evolução, assim como meu aprendizado.*
+
