@@ -16,7 +16,8 @@
 ---
 
 ### 🧠 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **FATEC** e gosto de aprender coisas novas, por isso busco me tornar uma futura desenvolvedora **full stack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **FATEC**, com maior interesse em desenvolvimento back-end e estudos contínuos em front-end.
+
 
 ---
 ## 🛠️ Conhecimentos
